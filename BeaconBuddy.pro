@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=BeaconBuddyH
+LibName1=BeaconBuddy
 LibName2=power
 LibName3=device
 LibName4=transistors
