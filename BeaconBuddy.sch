@@ -36,8 +36,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "BeaconBuddy"
-Date "2016-10-22"
-Rev "B"
+Date "2016-10-23"
+Rev "C"
 Comp ""
 Comment1 ""
 Comment2 ""

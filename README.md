@@ -2,6 +2,7 @@
 
 nRF52832 based beacon design
 
+![alt text](BeaconBuddy.png?raw=true "BeaconBuddy rev.c")
 Simple reference design in a 1"x1.2" form factor with CR2032 battery holder.  Rev. A Tested to work with examples from the nRF52 SDK v11.0.0, but no
 guarantees as to the effectiveness of the antenna.  
 
